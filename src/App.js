@@ -1,9 +1,12 @@
 import React from 'react'
-import Todo from './Components/TodoReact/Todo';
+import Temperature from './Components/Weather APP/Temperature';
+
+// import Todo from './Components/TodoReact/Todo';
 function App() {
   return (
     <>
-      <Todo/>
+      {/* <Todo/> */}
+      <Temperature/>
     </>
   );
 }
